@@ -1,3 +1,8 @@
+---
+eip: .nan
+status: Draft
+---
+
 # EIP-5007
 This standard is an extension of [ERC-721](../../EIPS/eip-721.md). It proposes some additional functions (`startTime`, `endTime`) to help with on-chain time management.
 
