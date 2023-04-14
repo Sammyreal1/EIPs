@@ -1,3 +1,8 @@
+---
+eip: .nan
+status: Draft
+---
+
 # Security Policy
 
 ## Supported Versions
