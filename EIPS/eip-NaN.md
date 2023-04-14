@@ -1,3 +1,8 @@
+---
+eip: .nan
+status: Draft
+---
+
 # SDC Solidity implementation
 
 ## Description
