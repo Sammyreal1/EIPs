@@ -1,5 +1,5 @@
 ---
-eip: 6882
+eip: .nan
 title: Sharable interface for Borrowing
 description: Defines interface for borrowing from a defi pool
 author: 0xbakuchi (@massun-onibakuchi), Takeru Natsui(@cotoneum), Brian Ko (@briankostar)
