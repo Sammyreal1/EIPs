@@ -1,4 +1,5 @@
 ---
+eip: .nan
 title: Preimage retention in the fork preceding the Verge
 description: Execution clients must retain the preimages of addresses and slots accessed between the fork preceding the verge, and the verge itself.
 author: Guillaume Ballet (@gballet)
