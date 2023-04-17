@@ -1,3 +1,8 @@
+---
+eip: .nan
+status: Draft
+---
+
 # Reference implementations of ERC-6774
 
 ## Contract

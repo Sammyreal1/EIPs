@@ -1,5 +1,5 @@
 ---
-eip: 6774
+eip: .nan
 title: Non-Sellable Tokens
 description: Prevent speculation on NFTs by replacing transfers by a barter mechanism
 author: Cédric Nicolas (@cedric-n-icolas), Casey <casey@logion.community>, Kerel Verwaerde (@NSTKerel), Matthieu Chassagne <Matthieu@amcconsults.com>, Perrin (@pgrandne), Rafael Fitoussi (@fi2c), Raphael (@RaphaelHardFork), Virgil (@virgilea2410)
