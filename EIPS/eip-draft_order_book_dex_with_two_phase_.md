@@ -1,5 +1,5 @@
 ---
-eip: 6787
+eip: .nan
 title: Order Book DEX with Two Phase Withdrawal
 description: An order book-based DEX Interface that ensures the asset security of both users and the exchange
 author: Jessica (@qizheng09), Roy (@royshang), Jun (@SniperUsopp)
@@ -9,7 +9,6 @@ type: Standards Track
 category: ERC
 created: 2023-03-27
 ---
-
 
 ## Abstract
 
